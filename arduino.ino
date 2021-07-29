@@ -9,10 +9,10 @@
 
 
 // 파이어 베이스 및 와이파이, 아두이노 설정값
-#define FIREBASE_HOST "arduino-gps-3774c.firebaseio.com"
-#define FIREBASE_AUTH "aKJbvoMVeu38iKZ9PaR735PNctweKNK3zbja9zGL"
-#define WIFI_SSID "Softbanan"
-#define WIFI_PASSWORD "dks81466"
+#define FIREBASE_HOST "파이어베이스호스트"
+#define FIREBASE_AUTH "파이어베이스인증코드"
+#define WIFI_SSID "와이파이이름"
+#define WIFI_PASSWORD "와이파이비밀번호"
 #define DHTPIN 16      // DHT핀을 2번으로 정의한다(DATA핀)
 #define DHTTYPE DHT11  // DHT타입을 DHT11로 정의한다
 DHT DHT(DHTPIN, DHTTYPE);  // DHT설정 - dht (디지털4, dht11)
