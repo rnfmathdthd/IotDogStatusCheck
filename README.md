@@ -1,0 +1,2 @@
+# iotDogStatusCheck
+work on android
